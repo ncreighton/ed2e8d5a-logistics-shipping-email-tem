@@ -24,6 +24,8 @@ This Chrome extension eliminates the repetitive grind of logistics email communi
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://journalscribe7.gumroad.com/l/kuywq)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/7sY3cv26HgaU5tubzScZn46)** — Secure checkout
 
 ## Installation
@@ -35,6 +37,7 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://journalscribe7.gumroad.com/l/kuywq)
 
 ## License
 
